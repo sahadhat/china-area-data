@@ -19,7 +19,7 @@ npm install china-area-data
 * 补充了台湾省数据。
 * 增加 data-array.json 数组格式。
 
-### v4
+### v4 5
 
 同 v3，但是把原来应该在县下的从直辖市分离出来。
 
